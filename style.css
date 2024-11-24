@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ff6347;
+  }
+  
+  form {
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+    background-color: #fff;
+  }
+  
+  label, legend {
+    font-weight: bold;
+  }
+  
+  fieldset {
+    margin-bottom: 15px;
+  }
+  
+  #order-button {
+    display: block;
+    margin: 15px auto;
+    padding: 10px 20px;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #order-button:hover {
+    background-color: #e55342;
+  }
+  
+  #order-summary {
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 400px;
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
